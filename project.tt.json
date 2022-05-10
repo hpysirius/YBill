@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "YBill",
+  "appid": "wx1bf1d93a1ca7200c",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
